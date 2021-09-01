@@ -21,3 +21,4 @@ Para começar:
 
 ---
 
+Linkedin: [Felipe Gomes.](https://www.linkedin.com/in/felipe-gl/)
