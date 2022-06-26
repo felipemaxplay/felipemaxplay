@@ -2,7 +2,7 @@
 Sejam bem-vindos ao meu perfil do github, fiquem a vontade para explorar os repositórios.
 
 Para começar:
-- Tenho 22 anos.
+- Tenho 23 anos.
 - Cursando Análise e Desenvolvimento de Sistemas na Uninove - 5/5.
 - Estou procurando ajuda para saber como entrar na área de desenvolvimento.
 
@@ -13,7 +13,7 @@ Linguagens de programação, frameworks e ferramentas que tenho conhecimento:
     <img widht="50" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
     <img widht="50" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
     <img widht="50" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-    <img widht="50" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+    <img widht="50" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
     <img widht="50" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
     <img widht="50" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
     <img widht="50" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
@@ -31,4 +31,5 @@ Alguns dados do meu github:
 </div>
 
 # Contato
-- Linkedin - [@Felipe Gomes.](https://www.linkedin.com/in/felipe-gl/)
+<a href="http://linkedin.com/in/felipe-gl" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="http://github.com/felipemaxplay" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>
