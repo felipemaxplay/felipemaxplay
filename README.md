@@ -3,7 +3,7 @@ Sejam bem-vindos ao meu perfil do github, fiquem a vontade para explorar os repo
 
 Para começar:
 - Tenho 23 anos.
-- Cursando Análise e Desenvolvimento de Sistemas na Uninove - 5/5.
+- Formado em Análise e Desenvolvimento de Sistemas pela Uninove.
 - Estou procurando ajuda para saber como entrar na área de desenvolvimento.
 
 # Conhecimentos
