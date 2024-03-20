@@ -14,11 +14,8 @@ Linguagens de programação, frameworks e ferramentas que tenho conhecimento:
     <img widht="50" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
     <img widht="50" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
     <img widht="50" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
-    <img widht="50" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
     <img widht="50" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img widht="50" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-    <img widht="50" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img widht="50" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+    <img widht="50" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
 </div>
 
 Alguns dados do meu github:
